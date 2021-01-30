@@ -2,8 +2,6 @@
 
 I write about experiments in nutrition, training, and living. You can read my latest newsletter [here](https://benjamintormey.com/latest) ✉️
 
-@bentormey on [Twitter](https://benjamintormey.com/twitter) and on [Instagram](https://www.instagram.com/bentormey/)
-
 <!--
 **bentormey/bentormey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
